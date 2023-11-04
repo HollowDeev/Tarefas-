@@ -6,7 +6,7 @@ const Header = () => {
 
   return (
     <header className="w-full h-16 bg-dark-gray flex justify-center items-center">
-        <section className="w-full px-4 max-w-[1024px] flex items-center justify-between">
+        <section className="w-full px-4 max-w-5xl flex items-center justify-between">
             <nav className="flex items-center">
                 <Link href='/' >
                     <h1 className="text-white text-2xl font-bold ">
